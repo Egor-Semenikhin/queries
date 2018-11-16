@@ -18,6 +18,21 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="query.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="where.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="select.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="order_by.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="collection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

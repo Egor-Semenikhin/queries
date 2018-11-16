@@ -155,7 +155,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="collection.h" />
+    <ClInclude Include="order_by.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="query.h" />
+    <ClInclude Include="select.h" />
+    <ClInclude Include="where.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
